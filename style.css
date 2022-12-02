@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0.5rem;
+    list-style-type: none;
+}
+li:hover {
+    color: red;
+}
